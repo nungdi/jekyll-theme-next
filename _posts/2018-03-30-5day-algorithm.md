@@ -5,7 +5,7 @@ categories:
 tags: algorithm study javascript
 ---
 
-알고리즘 스터디 다섯번째
+# 알고리즘 스터디 다섯번째
 
 문제)
 문자열 다루기 기본 (level1, javascript)
