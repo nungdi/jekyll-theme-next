@@ -1,5 +1,5 @@
 ---
-title: 3DAY, ALGORITHM
+title: 4DAY, ALGORITHM
 categories:
  - ALGORITHM
 tags: algorithm study javascript
