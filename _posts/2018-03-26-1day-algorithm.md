@@ -2,7 +2,7 @@
 title: 1DAY, ALGORITHM
 categories:
  - ALGORITHM
-tags: algorithm, study, javascript
+tags: algorithm study javascript
 ---
 
 알고리즘 스터디 첫번째
