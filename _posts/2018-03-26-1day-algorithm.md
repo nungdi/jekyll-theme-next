@@ -27,8 +27,10 @@ function evenOrOdd(num) {
 console.log("결과 : " + evenOrOdd(2));
 console.log("결과 : " + evenOrOdd(3));
 {% endhighlight %}
+
 ### 실행결과
 결과 : Even<br />
 결과 : Odd
+
 ### 출처
 [https://programmers.co.kr/learn/challenge_codes/122](https://programmers.co.kr/learn/challenge_codes/122)
