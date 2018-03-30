@@ -28,4 +28,4 @@ console.log(strToInt("-1234"));
 -1234
 
 ### 출처
-[https://programmers.co.kr/learn/challenge_codes/110](https://programmers.co.kr/learn/challenge_codes/110)
+[https://programmers.co.kr/learn/challenge_codes/110](https://programmers.co.kr/learn/challenge_codes/110){: target="_blank" }
