@@ -33,8 +33,8 @@ function gcdlcm(a, b) {
 console.log(gcdlcm(3,12));
 {% endhighlight %}
 
-## 실행결과
+### 실행결과
 [ 3, 12 ]
 
-## 출처
+### 출처
 [https://programmers.co.kr/learn/challenge_codes/12](https://programmers.co.kr/learn/challenge_codes/12){: target="_blank" }
