@@ -32,4 +32,5 @@ console.log("결과 : " + evenOrOdd(3));
 결과 : Even<br />
 결과 : Odd
 
-## 출처 : [https://programmers.co.kr/learn/challenge_codes/122] (https://programmers.co.kr/learn/challenge_codes/122)
+## 출처)
+[https://programmers.co.kr/learn/challenge_codes/122](https://programmers.co.kr/learn/challenge_codes/122)
