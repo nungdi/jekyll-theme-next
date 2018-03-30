@@ -5,7 +5,7 @@ categories:
 tags: algorithm study javascript
 ---
 
-##문제)
+### 문제
 정수제곱근판별하기 (level1, javascript)<br />
 nextSqaure함수는 정수 n을 매개변수로 입력받습니다.<br />
 n이 임의의 정수 x의 제곱이라면 x+1의 제곱을 리턴하고, n이 임의의 정수 x의 제곱이 아니라면 'no'을 리턴하는 함수를 완성하세요.<br />
@@ -32,10 +32,10 @@ console.log("결과 : " + nextSqaure(121));
 console.log("결과 : " + nextSqaure(3));
 {% endhighlight %}
 
-## 실행결과)
+### 실행결과
 결과 : 144<br />
 결과 : no
 
-## 출처)
+### 출처
 [https://programmers.co.kr/learn/challenge_codes/120](https://programmers.co.kr/learn/challenge_codes/120)
 
