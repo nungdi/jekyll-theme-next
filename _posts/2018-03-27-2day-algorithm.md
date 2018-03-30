@@ -37,4 +37,4 @@ console.log("결과 : " + nextSqaure(3));
 결과 : no
 
 ### 출처
-[https://programmers.co.kr/learn/challenge_codes/120](https://programmers.co.kr/learn/challenge_codes/120)
+[https://programmers.co.kr/learn/challenge_codes/120](https://programmers.co.kr/learn/challenge_codes/120){: target="_blank" }
