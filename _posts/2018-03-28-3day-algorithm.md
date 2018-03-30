@@ -22,9 +22,7 @@ function strToInt(str){
 // 아래는 테스트로 출력해 보기 위한 코드입니다.
 console.log(strToInt("-1234"));
 {% endhighlight %}
-
 ### 실행결과
 -1234
-
 ### 출처
 [https://programmers.co.kr/learn/challenge_codes/110](https://programmers.co.kr/learn/challenge_codes/110)
