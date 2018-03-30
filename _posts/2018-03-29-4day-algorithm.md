@@ -37,4 +37,4 @@ console.log(gcdlcm(3,12));
 [ 3, 12 ]
 
 ## 출처
-[https://programmers.co.kr/learn/challenge_codes/12](https://programmers.co.kr/learn/challenge_codes/12)
+[https://programmers.co.kr/learn/challenge_codes/12](https://programmers.co.kr/learn/challenge_codes/12){: target="_blank" }
