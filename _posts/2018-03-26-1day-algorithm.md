@@ -5,7 +5,7 @@ categories:
 tags: algorithm study javascript
 ---
 
-## 문제)
+### 문제
 짝수와 홀수 (level1, javascript)<br />
 evenOrOdd 메소드는 int형 num을 매개변수로 받습니다.<br />
 num이 짝수일 경우 Even을 반환하고 홀수인 경우 Odd를 반환하도록 evenOrOdd에 코드를 작성해 보세요.<br />
@@ -28,9 +28,9 @@ console.log("결과 : " + evenOrOdd(2));
 console.log("결과 : " + evenOrOdd(3));
 {% endhighlight %}
 
-## 실행결과)
+### 실행결과
 결과 : Even<br />
 결과 : Odd
 
-## 출처)
+### 출처
 [https://programmers.co.kr/learn/challenge_codes/122](https://programmers.co.kr/learn/challenge_codes/122)
