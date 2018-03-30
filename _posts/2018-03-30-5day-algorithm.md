@@ -33,4 +33,4 @@ true<br />
 false
 
 ### 출처
-<https://programmers.co.kr/learn/challenge_codes/99>{: target="_blank" }
+[https://programmers.co.kr/learn/challenge_codes/99](https://programmers.co.kr/learn/challenge_codes/99){: target="_blank" }
