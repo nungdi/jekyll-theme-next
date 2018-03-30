@@ -17,12 +17,12 @@ function nextSqaure(n){
   //함수를 완성하세요
   var x = 0;
   while ( x*x < n ){
-  	x++;
+  	 x++;
   }
   if ( x*x == n ){
     result = Math.pow(x+1, 2);
   } else {
-  	result = 'no';
+  	 result = 'no';
   }
   return result;
 }
