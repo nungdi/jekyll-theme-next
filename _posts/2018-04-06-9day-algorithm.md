@@ -3,7 +3,6 @@ title: 9DAY, ALGORITHM
 categories:
  - ALGORITHM
 tags: algorithm study javascript
-published: false
 ---
 
 ### 문제
@@ -16,12 +15,12 @@ published: false
 
 {% highlight javascript linenos %}
 function getDayName(a,b){
-	let answer = "";
-  let date = new Date(`2016, ${a}, ${b}`);
-  answer = date.toString().substring(0, 3).toUpperCase();
-  
-  return answer;
-  //console.log(date);
+    let answer = "";
+    let date = new Date(`2016, ${a}, ${b}`);
+    answer = date.toString().substring(0, 3).toUpperCase();
+
+    return answer;
+    //console.log(date);
 }
 
 //아래 코드는 테스트를 위한 코드입니다.
