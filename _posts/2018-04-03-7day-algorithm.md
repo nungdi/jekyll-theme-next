@@ -39,7 +39,7 @@ console.log( printTriangle(3) );
 
 ### 실행결과
 \*<br />
-\**<br />
+\*\*<br />
 \*\*\*
 
 ### 출처

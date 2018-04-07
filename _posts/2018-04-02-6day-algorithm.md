@@ -15,7 +15,7 @@ tags: algorithm study javascript
 
 {% highlight javascript linenos %}
 function fibonacci(num) {
-	if (num < 2){
+  if (num < 2){
     return num;
   } else {
     return fibonacci(num-1) + fibonacci(num-2);
@@ -30,7 +30,7 @@ console.log(fibonacci(3))
 실행시간이 5초를 초과하여 실행이 중단되었습니다. T^T
 
 <br />
-배열을 선언하고 배열에 값을 추가하는 방식 으로풀이 ...
+배열을 선언하고 배열에 값을 추가하는 방식으로 풀이...
 
 {% highlight javascript linenos %}
 function fibonacci(num) {

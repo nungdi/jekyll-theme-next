@@ -15,10 +15,10 @@ s의 길이가 4혹은 6이고, 숫자로만 구성되있는지 확인해주는 
 function alpha_string46(s){
   var result = true
   // 함수를 완성하세요
-	 if ( (s.length == 4 || s.length == 6) && /^[0-9]+$/.test(s) ){
-    result = true;
+  if ( (s.length == 4 || s.length == 6) && /^[0-9]+$/.test(s) ){
+  	result = true;
   } else {
-  	 result = false;
+  	result = false;
   }
   return result;
 }
