@@ -60,9 +60,11 @@ $selection-color              : white;
   $custom_family : jekyll-config('font.' + $config + '.family');
   @return if(type-of($custom_family) == 'string', $custom_family, null);
 }
+@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 
 // Font families.
-$font-family-chinese      : "PingFang SC", "Microsoft YaHei";
+//$font-family-chinese      : "PingFang SC", "Microsoft YaHei";
+$font-family-chinese      : 'Noto Sans KR';
 
 $font-family-base         : $font-family-chinese, sans-serif;
 $font-family-base         : if(get_font_family('global'), (get_font_family('global'), $font-family-chinese, sans-serif), $font-family-base);
