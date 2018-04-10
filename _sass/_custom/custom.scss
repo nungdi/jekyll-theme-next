@@ -1,4 +1,5 @@
 // Custom styles.
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Extended+Text');
 
 .headband {
 	position:fixed;
@@ -6,4 +7,6 @@
 	width:100%;
 	z-index:9;
 }
-
+.site-title {
+	font-family:'Libre Barcode 39 Extended Text', cursive !important;
+}
