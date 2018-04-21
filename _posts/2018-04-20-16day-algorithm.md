@@ -7,6 +7,10 @@ tags: algorithm study javascript
 
 ### 문제
 **평균구하기(level1, javascript)**<br />
+함수를 완성해서 매개변수 array의 평균값을 return하도록 만들어 보세요.<br />
+어떠한 크기의 array가 와도 평균값을 구할 수 있어야 합니다.
+
+{% highlight javascript linenos %}
 function average(array){
   
   //함수를 완성하세요
