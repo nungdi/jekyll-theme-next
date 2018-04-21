@@ -19,6 +19,7 @@ N이 주어질 때, N의 **다음 큰 숫자**를 찾는 nextBigNumber 함수를
 function nextBigNumber(n){
   
   let _two = n.toString(2).split('').filter(num => 1 === parseInt(num, 10)).length;
+  //parseInt([1, 1, 1, 1], 10) == 1
   
   while(true){
     n ++;
