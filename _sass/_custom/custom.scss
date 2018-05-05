@@ -1,6 +1,8 @@
 // Custom styles.
 @import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Extended+Text');
 
+$p-color: #000;
+
 .headband {
 	position:fixed;
 	top:0;
@@ -9,9 +11,9 @@
 }
 .brand {
 	background:0;
-	color:#000;
+	color:$p-color;
 	&:hover {
-		color:#000;
+		color:$p-color;
 	}
 }
 .site-title {
