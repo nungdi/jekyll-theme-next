@@ -13,13 +13,13 @@ tags: algorithm study javascript
 function nlcm(num) {
   var answer = num[0];
   var number = 0;
-  var \_max = 0;
-  var \_min = 0;
+  var _max = 0;
+  var _min = 0;
   for (var i = 1; i < num.length; i++) {
     number = num[i];
-    \_max = Math.max(answer, number);
-    \_min = Math.min(answer, number);
-    answer = \_max * \_min / gcd(\_max, \_min);
+    _max = Math.max(answer, number);
+    _min = Math.min(answer, number);
+    answer = _max * _min / gcd(_max, _min);
   }
   return answer;
 }
