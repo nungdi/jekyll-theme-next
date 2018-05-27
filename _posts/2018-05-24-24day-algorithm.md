@@ -52,7 +52,7 @@ function solution(n, works) {
       var idx = works.indexOf(Math.max.apply(null, works));
       works[idx] -= 1;
     }
-    answer = works.reduce((result, x) => result + Math.pow(x, 2), 0);
+    answer = works.reduce((answer, x) => answer + Math.pow(x, 2), 0);
   }
   return answer;
 }
